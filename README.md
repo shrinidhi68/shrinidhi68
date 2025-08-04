@@ -4,7 +4,7 @@
  
  Passionate Developer from India
 
-<h1 style="text-align: center;">This text will be centered.</h1>
+<div align="center">Your centered text here.</div>
 
 
 
