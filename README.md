@@ -1,8 +1,9 @@
  # 💫 About Me
- 
+
+ Shrinidhi M
  Passionate Developer from India
  
- I Am Software Developer
+
 
 
 ## 🌐 Socials:
