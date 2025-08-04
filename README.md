@@ -1,6 +1,7 @@
- # 💫 About Me:
-                                                                                                               Passionate Developer from India
-I Am Software Developer
+ # 💫 About Me
+ 
+ Passionate Developer from India
+ I Am Software Developer
 
 
 ## 🌐 Socials:
