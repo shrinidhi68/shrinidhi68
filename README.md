@@ -1,7 +1,6 @@
  # 💫 About Me
 
-<h1><div align="center"> Shrinidhi M</div></h1>
-<h1><div align="center">Passionate Developer from India</div></h1>
+<h1><div align="center"> Shrinidhi M</div></h1><h1><div align="center">Passionate Developer from India</div></h1>
 
 
 
