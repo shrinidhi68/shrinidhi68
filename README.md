@@ -3,7 +3,23 @@
  Shrinidhi M
  
  Passionate Developer from India
- 
+
+ <!DOCTYPE html>
+<html>
+<head>
+<style>
+  .center-text {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<h1 class="center-text">This heading is centered.</h1>
+<p class="center-text">This paragraph is also centered.</p>
+
+</body>
+</html>
 
 
 
